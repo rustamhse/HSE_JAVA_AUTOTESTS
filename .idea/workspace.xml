@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca898ff-0930-4e71-87fb-f047cce689cc" name="Changes" comment="Done hw1" />
+    <list default="true" id="bca898ff-0930-4e71-87fb-f047cce689cc" name="Changes" comment="Done course work" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +69,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/HW1" />
     </key>
   </component>
@@ -140,7 +141,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740431847617</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Done hw1">
+      <option name="closed" value="true" />
+      <created>1741633057082</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741633057082</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Done course work">
+      <option name="closed" value="true" />
+      <created>1741633118953</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741633118953</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done hw1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done hw1" />
+    <MESSAGE value="Done course work" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done course work" />
   </component>
 </project>
